@@ -1,1 +1,1 @@
-# covid-19-chest-xray-lung-bounding-boxes-dataset
+# COVID-19 Chest X-ray Lung Bounding Boxes Dataset
