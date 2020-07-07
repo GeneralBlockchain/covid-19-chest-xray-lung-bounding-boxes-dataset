@@ -27,7 +27,7 @@ Go [here](#download-the-dataset) if you don't have time.
 
 In this pandemic situation, our aim is to help researchers to find out a solution. In order to do that we are aiming to provide them with proper datasets that makes the process easier. A [repository](https://github.com/ieee8023/covid-chestxray-dataset) to build a public open dataset of chest X-ray and CT images of patients which are positive or suspected of COVID-19 or other viral and bacterial pneumonias (MERS, SARS, and ARDS.) was created by [Joseph Paul Cohen](https://github.com/ieee8023). Data have been collected from public sources as well as through indirect collection from hospitals and physicians.
 
-We are providing lung bounding boxes of those publicly available datasets. Each image was manually annotated by our radiologist. We are releasing lung bounding boxes dataset.
+We are providing lung bounding boxes of those publicly available datasets.
 
 ## Who are we
 
@@ -35,9 +35,27 @@ We are **General Blockchain Inc**, an AI based company creating Human-Machine Ar
 
 Our vision is to build a programmable Human-Based Artificial Intelligence, able to solve problems that neither humans nor computers can solve alone. The first application of this technology is a full-stack Computer Vision product which collects, annotates and creates datasets which allow AI to recognize any objects in unseen images or videos. Access our AI services [here](https://www.generalblockchain.com/), today.
 
-<!--
+
 ## Introduction
--->
+
+This dataset is a total collection of 282 images with Lung Bounding Boxes of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases.
+
+Each image contains two lung bounding boxes (Left Lung, Right Lung) with additional tags such as Finding, Modality, Sex, Survival, View. Each image was manually annotated by our radiologist.
+
+**Warning:** Do not claim diagnostic performance of a model without a clinical study!
+
+## Download the Dataset
+
+###### Download the dataset as zip format:
+
+![Download zip](https://user-images.githubusercontent.com/33668152/86792467-57d8c580-c08c-11ea-8bba-e5807d948f3c.png)
+
+###### Download using git clone:
+
+Open terminal and run the following command:
+```
+git clone https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset.git
+```
 
 
 
