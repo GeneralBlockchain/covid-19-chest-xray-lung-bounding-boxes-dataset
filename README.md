@@ -22,7 +22,7 @@ Go [here](#download-the-dataset) if you don't have time.
 - [Links and References](#links-and-references)
 - [Who are we](#who-are-we)
 - [Contact us](#contact-us)
-- [Licensing](#licensing)
+- [License](#license)
 
 ---
 
@@ -34,11 +34,11 @@ We are providing lung bounding boxes of those publicly available datasets.
 
 ---
 
-## Introduction
+## About the Dataset
 
-This dataset is a total collection of 282 images with Lung Bounding Boxes of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases.
+This dataset is a total collection of 282 images with Lung Bounding Boxes of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases. The annotation file is in COCO format.
 
-Each image contains two lung bounding boxes (Left Lung, Right Lung) with additional tags such as Finding, Modality, Sex, Survival, View. Each image was manually annotated by our radiologist.
+Each annotation contains two lung bounding boxes (Left Lung, Right Lung) with additional tags such as Finding, Modality, Sex, Survival, View. Each image was manually annotated by our radiologist.
 
 **Warning:** Do not claim diagnostic performance of a model without a clinical study!
 
@@ -64,6 +64,8 @@ git clone https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding
 - Repository: https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset.git
 - Issue tracker: https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset/issues
 - Image source: https://github.com/ieee8023/covid-chestxray-dataset
+- Joseph Paul Cohen, Paul Morrison, Lan Dao, "COVID-19 Image Data Collection" - [paper](https://arxiv.org/abs/2003.11597)
+- Joseph Paul Cohen, Paul Morrison, Lan Dao, Karsten Roth, Tim Q Duong, Marzyeh Ghassemi, "COVID-19 Image Data Collection: Prospective Predictions Are the Future" - [paper](https://arxiv.org/abs/2006.11988)
 - In case of any help you may need from us, please go to [contact us](#contact-us) directly without any hesitation! We will be glad to help you.
 
 ---
@@ -84,7 +86,11 @@ Discord is the best way to talk to us. You can chat in real time with our staff 
 
 <a href="https://discord.com/invite/22HVPEU">Chat Now</a>
 
-## Licensing
+---
+
+## License
+
+Each image has license specified in the metadata.csv file. Including Apache 2.0, CC BY-NC-SA 4.0, CC BY 4.0.
 
 The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
