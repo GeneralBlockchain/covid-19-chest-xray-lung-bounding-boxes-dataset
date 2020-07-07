@@ -4,9 +4,9 @@
 
 ## INTRO
 
-'''
+<!--
 <img src="https://user-images.githubusercontent.com/33668152/86773453-7ed8cc80-c077-11ea-975a-b917800389a4.png" alt="X-ray" align="right" width="300" />
-'''
+-->
 
 A total collection of 282 images with Lung Bounding Boxes of Chest X-ray Dataset for Novel Coronavirus (COVID-19) Cases.
 
