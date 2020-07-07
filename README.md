@@ -41,7 +41,6 @@ Our vision is to build a programmable Human-Based Artificial Intelligence, able 
 
 
 
-
 ---
 
 Updating...
