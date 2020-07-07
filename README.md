@@ -46,13 +46,14 @@ Each image contains two lung bounding boxes (Left Lung, Right Lung) with additio
 
 ## Download the Dataset
 
-###### Download the dataset as zip format:
+Download the dataset as zip format:
 
-![Download zip](https://user-images.githubusercontent.com/33668152/86792467-57d8c580-c08c-11ea-8bba-e5807d948f3c.png)
+![Download zip](https://user-images.githubusercontent.com/33668152/86793508-5956bd80-c08d-11ea-89b2-09d87d1d7a2f.png)
 
-###### Download using git clone:
+Download using git clone:
 
-Open terminal and run the following command:
+Open terminal and run the following command-
+
 ```
 git clone https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset.git
 ```
