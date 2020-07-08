@@ -67,11 +67,12 @@ git clone https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding
 - Issue tracker: https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset/issues
 
 - Image source: https://github.com/ieee8023/covid-chestxray-dataset
-
+<!--
 - Joseph Paul Cohen, Paul Morrison, Lan Dao, "COVID-19 Image Data Collection" - [paper](https://arxiv.org/abs/2003.11597)
-
+-->
+<!--
 - Joseph Paul Cohen, Paul Morrison, Lan Dao, Karsten Roth, Tim Q Duong, Marzyeh Ghassemi, "COVID-19 Image Data Collection: Prospective Predictions Are the Future" - [paper](https://arxiv.org/abs/2006.11988)
-
+-->
 - In case of any help you may need from us, please [contact us](#contact-us) directly without any hesitation! We will be glad to help you.
 
 ---
