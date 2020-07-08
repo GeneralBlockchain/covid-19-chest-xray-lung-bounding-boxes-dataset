@@ -28,7 +28,9 @@ Go [here](#download-the-dataset) if you don't have time.
 
 ## Motivation
 
-In this pandemic situation, our aim is to help researchers to find out a solution. In order to do that we are aiming to provide them with proper datasets that makes the process easier. A [repository](https://github.com/ieee8023/covid-chestxray-dataset) to build a public open dataset of chest X-ray and CT images of patients which are positive or suspected of COVID-19 or other viral and bacterial pneumonias (MERS, SARS, and ARDS.) was created by [Joseph Paul Cohen](https://github.com/ieee8023). Data have been collected from public sources as well as through indirect collection from hospitals and physicians.
+In this pandemic situation, our aim is to help researchers to find out a solution. In order to do that we are aiming to provide them with proper datasets that makes the process easier.
+
+A [repository](https://github.com/ieee8023/covid-chestxray-dataset) to build a public open dataset of chest X-ray and CT images of patients which are positive or suspected of COVID-19 or other viral and bacterial pneumonias (MERS, SARS, and ARDS.) was created by [Joseph Paul Cohen](https://github.com/ieee8023). Data have been collected from public sources as well as through indirect collection from hospitals and physicians.
 
 We are providing lung bounding boxes of those publicly available datasets.
 
