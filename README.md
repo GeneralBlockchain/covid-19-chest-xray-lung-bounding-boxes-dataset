@@ -105,5 +105,13 @@ The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](htt
 
 ---
 
+### Special thanks to the following radiologists who worked to the best of their ability to make our research possible:
+
+Dr. Ayoub El Hajjami
+
+Dr. Mohamed Soliman
+
+---
+
 
 
