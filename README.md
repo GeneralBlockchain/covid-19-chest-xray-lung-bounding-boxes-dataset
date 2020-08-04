@@ -38,7 +38,7 @@ We are providing lung bounding boxes of those publicly available datasets.
 
 ## About the Dataset
 
-This dataset is a total collection of 282 images with Lung Bounding Boxes of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases. The annotation file is in COCO format.
+This dataset is a total collection of 616 images with Lung Bounding Boxes of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases. The annotation file is in COCO format.
 
 Each annotation contains two lung bounding boxes (Left Lung, Right Lung) with additional tags such as Finding, Modality, Sex, Survival, View. Each image was manually annotated by qualified radiologists.
 
